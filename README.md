@@ -1,7 +1,13 @@
 <!-- repo-entrypoint-guide:start -->
-> **Repository context:** The profile content below identifies Jesse/codeSTACKr and preserves that original profile's links and attribution. It is not a biographical description of the owner of `scottjoyner/codeSTACKr`.
-> 
-> **Reuse:** Treat this repository as a profile README example; replace personal details and external accounts before publishing it as another person's profile.
+## Repository guide
+
+**Repository context:** The profile content below identifies Jesse/codeSTACKr and preserves that original profile's links and attribution. It is not a biographical description of the owner of `scottjoyner/codeSTACKr`.
+
+**Reuse:** Treat this repository as a profile README example; replace personal details and external accounts before publishing it as another person's profile.
+
+### Find your way
+
+- [I'm a Husband, Father, Developer, and Teacher!!](#im-a-husband-father-developer-and-teacher)
 <!-- repo-entrypoint-guide:end -->
 
 ### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
